@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# https://github.com/ogt/workdays
 import datetime, calendar
 
 def date_to_datetime(dt):
