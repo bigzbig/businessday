@@ -65,7 +65,7 @@ You can calculate the date of the third working day following the specified date
 ```python
 wd = BusinessDay()
 wd.next(datetime.date(2009, 3, 28), datetime.timedelta(days=3))
-# 2009-03-30
+# 2009-04-01
 ```
 
 ### preview
